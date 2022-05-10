@@ -1,5 +1,5 @@
 # IRFT
-The incident response forensic tool is a PowerShell script designed to grab data from a windows device that could aid in an investigation. This is a project to help me with PowerShell scripting.  
+The incident response forensic tool is a PowerShell script designed to grab data from a windows device that could aid in an investigation. This script is very ALPHA.
 
 ### PROJECT REQUIREMENTS 
 - This needs to be able to run on any Windows 10 device without downloading any application. 
@@ -8,8 +8,8 @@ The incident response forensic tool is a PowerShell script designed to grab data
 - This needs to be simple so others can edit the script.
 
 ### HOW TO USE
-1) Save script to empty thumb drive
-2) plug thumb drive into computer in question
-3) Run the script from drive
+1) Save the script to an empty thumb drive
+2) plug the thumb drive into the computer in question
+3) Run the script from the drive
 4) ...
 5) Profit
