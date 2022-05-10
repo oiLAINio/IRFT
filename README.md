@@ -8,8 +8,10 @@ The incident response forensic tool is a PowerShell script designed to grab data
 - This needs to be simple so others can edit the script.
 
 ### HOW TO USE
-1) Save the script to an empty thumb drive
-2) plug the thumb drive into the computer in question
-3) Run the script from the drive
-4) ...
-5) Profit
+1) Save the script to an empty thumb drive  
+2) plug the thumb drive into the computer in question  
+3) Run the script from the drive  
+4) ...  
+5) Profit  
+
+This tool is designed to aid in the **Identification** phase of your investigation. It is not a replacement for the incident response process and does not contain and eradicate the problem.
